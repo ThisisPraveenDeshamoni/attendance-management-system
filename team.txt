@@ -1,0 +1,7 @@
+attendence management system without any Front End.
+
+team:
+Shanmukprakash
+praveen kumar
+maruthi
+eagala rakesh
